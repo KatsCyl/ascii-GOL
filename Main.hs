@@ -32,7 +32,7 @@ genGOL (w, h) seed proc =let rndms = take (w * h) $ R.randomRs (1, 100) (R.mkStd
                              Game w h bools
 
 matrixToString :: Game -> String
-matrixToString (Game w h list) = (++) clearScreenCode $ concat $ map rowToString $ grabRows h list 
+matrixToString (Game w h list) = (++) clearScreenCode $ concat $ map rowToString $ grabRows w list 
 
 grabRows :: Int -> [a] -> [[a]]
 grabRows _ []   = [[]]
