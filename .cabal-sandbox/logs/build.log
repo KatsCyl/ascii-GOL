@@ -1,0 +1,404 @@
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 base-4.8.0.0
+install-outcome: InstallFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: InstallFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: loop-0.2.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: base-4.8.0.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: matrix-0.3.4.4
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: vector-0.11.0.0 primitive-0.6 loop-0.2.0
+              deepseq-1.4.1.1 base-4.8.0.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: primitive-0.6
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: transformers-0.4.2.0 ghc-prim-0.4.0.0 base-4.8.0.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: vector-0.11.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+flags: -unsafechecks -internalchecks boundschecks
+dependencies: primitive-0.6 ghc-prim-0.4.0.0 deepseq-1.4.1.1
+              base-4.8.0.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: InstallFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: InstallFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 matrix-0.3.4.4 base-4.8.0.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 base-4.8.0.0 ansi-terminal-0.6.2.1
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ansi-terminal-0.6.2.1
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+flags: -example
+dependencies: unix-2.7.1.0 base-4.8.0.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 base-4.8.0.0 ansi-terminal-0.6.2.1
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 base-4.8.0.0 ansi-terminal-0.6.2.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 data-ordlist-0.4.7.0 base-4.8.0.0
+              ansi-terminal-0.6.2.1
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: data-ordlist-0.4.7.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: base-4.8.0.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 data-ordlist-0.4.7.0 base-4.8.0.0
+              ansi-terminal-0.6.2.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 data-ordlist-0.4.7.0 base-4.8.0.0
+              ansi-terminal-0.6.2.1
+install-outcome: BuildFailed
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 data-ordlist-0.4.7.0 base-4.8.0.0
+              ansi-terminal-0.6.2.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 data-ordlist-0.4.7.0 base-4.8.0.0
+              ansi-terminal-0.6.2.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 data-ordlist-0.4.7.0 base-4.8.0.0
+              ansi-terminal-0.6.2.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 data-ordlist-0.4.7.0 base-4.8.0.0
+              ansi-terminal-0.6.2.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 data-ordlist-0.4.7.0 base-4.8.0.0
+              ansi-terminal-0.6.2.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 data-ordlist-0.4.7.0 base-4.8.0.0
+              ansi-terminal-0.6.2.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: ascii-GOL-0.1.0.0
+os: linux
+arch: x86_64
+compiler: ghc-7.10.1
+client: cabal-install-1.22.0.1
+dependencies: random-1.1 data-ordlist-0.4.7.0 base-4.8.0.0
+              ansi-terminal-0.6.2.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
