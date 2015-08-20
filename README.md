@@ -5,7 +5,7 @@ This is a very minimalistic game of life simulator made with haskell. This was m
 
 Usage:
 
-1. Build with cabal install (recommend sandboxing firt)
+1. Build with cabal install (recommend sandboxing first)
 2. Run executable
 3. Follow prompt
 4. ???
